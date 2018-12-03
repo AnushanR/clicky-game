@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://c.wallhere.com/photos/c2/b7/1600x1200_px_Basketball_Basketball_Court_Sport_sports_sunset-1034044.jpg!d');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
